@@ -1,4 +1,5 @@
 import React from "react";
+import MyBtn from "./button";
 import MyList from "./list";
 
 export default class MyInput extends React.Component {
@@ -13,19 +14,18 @@ export default class MyInput extends React.Component {
             <div className="container">
                 <form className="my-form" onSubmit={this.submitter}>
                     <input className="my-input" type="text" onChange={this.handler} value={this.state.text}/>
-                    <button className="my-button">Нажми на меня</button>
+                    <MyBtn></MyBtn>
                 </form>
                 
                 <MyList tag={this.state.tag} items={this.state.items}></MyList>
             </div>
-                
         )
     }
     handler(e) {
         this.setState({ 
             text: e.target.value,
-            
-    })}
+        })
+    }
     
     submitter(e) {
         e.preventDefault();
