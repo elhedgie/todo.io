@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/todo.io/static/css/main.2a204957.css",
-    "main.js": "/todo.io/static/js/main.42e4176d.js",
+    "main.css": "/todo.io/static/css/main.04e75cdf.css",
+    "main.js": "/todo.io/static/js/main.17eabf21.js",
     "static/js/787.2843ca88.chunk.js": "/todo.io/static/js/787.2843ca88.chunk.js",
-    "static/media/1923369.svg": "/todo.io/static/media/1923369.4948214e697c415042b0.svg",
+    "static/media/1923369.svg": "/todo.io/static/media/1923369.997072e6fa461b68fd54.svg",
+    "static/media/1487086345-cross_81577.svg": "/todo.io/static/media/1487086345-cross_81577.15eb07f1af2966fd019d.svg",
     "index.html": "/todo.io/index.html",
-    "main.2a204957.css.map": "/todo.io/static/css/main.2a204957.css.map",
-    "main.42e4176d.js.map": "/todo.io/static/js/main.42e4176d.js.map",
+    "static/media/arrow-gal — копия.svg": "/todo.io/static/media/arrow-gal — копия.825e37bf1d3d53e81888.svg",
+    "main.04e75cdf.css.map": "/todo.io/static/css/main.04e75cdf.css.map",
+    "main.17eabf21.js.map": "/todo.io/static/js/main.17eabf21.js.map",
     "787.2843ca88.chunk.js.map": "/todo.io/static/js/787.2843ca88.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2a204957.css",
-    "static/js/main.42e4176d.js"
+    "static/css/main.04e75cdf.css",
+    "static/js/main.17eabf21.js"
   ]
 }
